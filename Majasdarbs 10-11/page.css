@@ -1,0 +1,56 @@
+html {
+	background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm281-adj-067-g.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=454fa74205281b8aebbadfbb42219868);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+body {
+	font-family: Arial;
+}
+
+img {
+	box-sizing: border-box;
+	width: 800px;
+	height: 400px;
+}
+
+img:hover {
+	border: solid 5px red;
+}
+
+.mainbox1, .mainbox2, .mainbox3 {
+	font-weight: bold;
+	font-style: oblique;
+
+}
+
+input {
+	float: left;
+	width: 500px;
+	height: 30px;
+	font-size: 18px;
+}
+
+button {
+	margin-left: 15px;
+	height: 35px;
+	width: 150px;
+	border-radius: 30px;
+	font-size: 14px;
+	color: white;
+	background-color: black;
+}
+
+button:hover{
+	background-color: white;
+	color: black;
+}
+
+.smalltext {
+	font-size: 12px;
+}
+
+.maintext {
+	width: 1200px;
+}
