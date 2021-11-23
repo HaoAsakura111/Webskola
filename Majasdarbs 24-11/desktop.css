@@ -1,0 +1,32 @@
+@media screen and (min-width: 1366px){
+	
+header{
+	margin-left: 120px;
+	margin-right: 120px;
+}
+
+.mainbox{
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.subbox:nth-child(2){
+	margin-right: 20px;
+	margin-left: 20px;
+}
+.logo2{
+	margin-left: 50px;
+}
+.blackbox{
+	padding-left: 120px;
+	padding-right: 120px;
+}
+	
+}
