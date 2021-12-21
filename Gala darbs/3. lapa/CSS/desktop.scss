@@ -1,0 +1,54 @@
+@media screen and (min-width: 1366px){
+
+	header{
+		.upper-box{
+			nav{
+				padding-left:166px;
+				padding-right:166px;
+
+				li:nth-child(3){
+						margin-left:20px;
+					}
+			
+			}
+		}
+	}
+	main{
+		.main-box{
+			.inside-box{
+				margin-right: 284px;
+				margin-left: 284px;
+			}
+		
+
+		.form{
+			form{
+			display:flex;
+			flex-direction: row;
+			justify-content: center;
+			align-items: center;
+			flex-wrap:wrap;
+
+			input{
+				width: 46%;
+				margin-bottom: 15px;
+				margin-right: 10px;
+			}
+
+			}
+		}
+	}
+
+	}
+
+	footer{
+		.down-links{
+			margin-right: 150px;
+		}
+
+		.cite{
+			margin-left: 150px;
+		}
+	}
+
+}

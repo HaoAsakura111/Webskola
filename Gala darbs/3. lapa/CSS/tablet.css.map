@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,oCAAoC;EAGnC,OAAE;IACD,SAAS,EAAE,IAAI;;EAIjB,MAAM;IACL,OAAO,EAAE,IAAI;IACb,cAAc,EAAE,GAAG;IACnB,eAAe,EAAE,YAAY;IAC7B,WAAW,EAAE,MAAM;IAEnB,YAAK;MACJ,WAAW,EAAC,IAAI",
+"sources": ["tablet.scss"],
+"names": [],
+"file": "tablet.css"
+}

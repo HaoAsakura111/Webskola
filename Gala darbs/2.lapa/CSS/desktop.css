@@ -1,0 +1,24 @@
+@media screen and (min-width: 1366px) {
+  header .mainpic {
+    position: absolute; }
+    header .mainpic .navbar .container-fluid ul li:nth-child(3) {
+      padding-left: 20px; }
+    header .mainpic nav {
+      background: rgba(255, 255, 255, 0) !important;
+      padding-left: 162px;
+      padding-right: 162px; }
+
+  main .main-container .main-box h1 {
+    font-size: 42px; }
+  main .main-container .main-box img {
+    width: 900px;
+    height: 600px; }
+  main .main-container .main-box .main-text {
+    width: 900px; }
+
+  footer .down-links {
+    margin-right: 150px; }
+  footer .cite {
+    margin-left: 150px; } }
+
+/*# sourceMappingURL=desktop.css.map */

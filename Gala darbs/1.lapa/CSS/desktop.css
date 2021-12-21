@@ -1,0 +1,67 @@
+@media screen and (min-width: 1366px) {
+  header .nav-container {
+    position: absolute; }
+    header .nav-container .navbar .container-fluid ul li:nth-child(3) {
+      padding-left: 20px; }
+    header .nav-container nav {
+      background: rgba(255, 255, 255, 0) !important;
+      padding-left: 166px;
+      padding-right: 166px; }
+  header .upper-text {
+    position: absolute;
+    right: 744px;
+    width: 542px; }
+    header .upper-text h1 {
+      text-align: left;
+      font-size: 53px; }
+    header .upper-text p {
+      text-align: left;
+      font-size: 18px; }
+
+  main .main-container .img-text {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
+    main .main-container .img-text .man {
+      display: block;
+      margin-top: 45px;
+      padding-right: 30px;
+      padding-bottom: 30px; }
+    main .main-container .img-text .main-text {
+      width: 470px;
+      margin-top: 70px; }
+      main .main-container .img-text .main-text h2 {
+        text-align: left;
+        margin-left: 8px;
+        font-size: 36px; }
+      main .main-container .img-text .main-text p {
+        text-align: left;
+        font-size: 17px; }
+  main .main-container h3 {
+    font-size: 36px;
+    padding-bottom: 20px; }
+  main .main-container .over-box .lower-box {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); }
+    main .main-container .over-box .lower-box .work-box {
+      width: 364px; }
+      main .main-container .over-box .lower-box .work-box img {
+        width: 364px; }
+      main .main-container .over-box .lower-box .work-box .work-name {
+        width: 146px; }
+
+  footer {
+    margin-right: 150px;
+    padding-left: 150px; } }
+
+/*# sourceMappingURL=desktop.css.map */

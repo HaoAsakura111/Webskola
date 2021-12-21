@@ -1,0 +1,37 @@
+@media screen and (min-width: 1366px) {
+  header .upper-box nav {
+    padding-left: 166px;
+    padding-right: 166px; }
+    header .upper-box nav li:nth-child(3) {
+      margin-left: 20px; }
+
+  main .main-box .inside-box {
+    margin-right: 284px;
+    margin-left: 284px; }
+  main .main-box .form form {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap; }
+    main .main-box .form form input {
+      width: 46%;
+      margin-bottom: 15px;
+      margin-right: 10px; }
+
+  footer .down-links {
+    margin-right: 150px; }
+  footer .cite {
+    margin-left: 150px; } }
+
+/*# sourceMappingURL=desktop.css.map */

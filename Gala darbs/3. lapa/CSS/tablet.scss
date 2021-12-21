@@ -1,0 +1,20 @@
+@media screen and (min-width: 768px){
+
+main{
+	h1{
+		font-size: 48px;
+	}
+}
+
+footer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-items: center;
+
+	.cite{
+		padding-top:30px;
+	}
+}
+
+}
